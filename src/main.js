@@ -10,6 +10,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap";
 import "./assets/css/style.css"
 import "./assets/css/default.css"
+import "./assets/css/responsive.css"
 import 'nprogress/nprogress.css';
 import 'sweetalert2/dist/sweetalert2.min.css';
 
