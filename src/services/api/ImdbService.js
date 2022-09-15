@@ -4,7 +4,7 @@ import axios from "axios";
 export default class extends Query {
     constructor() {
         super();
-        this.resource = '/api/imdb';
+        this.resource = '/api/imdb/collect-api';
     }
 
     search() {
